@@ -1,6 +1,6 @@
-# SAP S/4HANA CEO Platform
+# SAP S/4HANA Executive Dashboard
 
-> **Production-ready SAP UI5 monorepo** — CEO executive dashboard connected to live S/4HANA OData APIs, TrackCargo logistics tracking, and a reusable UI5 library for delay monitoring, Monte Carlo simulation, and configurable business rules.
+> **Production-ready SAP UI5 monorepo** — C-Level executive dashboard connected to live S/4HANA OData APIs, TrackCargo logistics tracking, and a reusable UI5 library for delay monitoring, Monte Carlo simulation, and configurable business rules.
 
 [![SAP UI5](https://img.shields.io/badge/SAP%20UI5-1.120-blue?logo=sap)](https://ui5.sap.com)
 [![BTP](https://img.shields.io/badge/SAP%20BTP-Cloud%20Foundry-0070F2?logo=sap)](https://www.sap.com/products/technology-platform.html)

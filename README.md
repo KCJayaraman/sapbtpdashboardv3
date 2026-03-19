@@ -1,6 +1,6 @@
 # SAP S/4HANA Executive Dashboard
 
-> **Production-ready SAP UI5 monorepo** — C-Level executive dashboard connected to live S/4HANA OData APIs, TrackCargo logistics tracking, and a reusable UI5 library for delay monitoring, Monte Carlo simulation, and configurable business rules.
+> **Production-ready SAP UI5 monorepo** — C-Level executive dashboard connected to live S/4HANA OData APIs, Cargo logistics tracking, and a reusable UI5 library for delay monitoring, Monte Carlo simulation, and configurable business rules.
 
 [![SAP UI5](https://img.shields.io/badge/SAP%20UI5-1.120-blue?logo=sap)](https://ui5.sap.com)
 [![BTP](https://img.shields.io/badge/SAP%20BTP-Cloud%20Foundry-0070F2?logo=sap)](https://www.sap.com/products/technology-platform.html)
@@ -42,8 +42,8 @@ This monorepo contains two packages that work independently or together:
               ┌───────────────┴───────────────┐
               │                               │
     SAP BTP Cloud Foundry             External APIs
-    ├── App Router (XSUAA)            ├── TrackCargo REST API
-    ├── HTML5 App Repository          │   trackcargo.co/developer
+    ├── App Router (XSUAA)            ├── Cargo REST API
+    ├── HTML5 App Repository          │   Cargo/developer
     ├── Destination Service           └── SAP S/4HANA OData v2
     └── XSUAA                             ├── MM_PUR_PO_MAINT_V2_SRV
                                           ├── SD_F1493_SALESORDER_SRV
@@ -90,7 +90,7 @@ sap-s4hana-ceo-platform/
 ├── docs/
 │   ├── HOW_TO_GUIDE.md               ← Complete team how-to guide ★
 │   ├── ARCHITECTURE.md               ← System design decisions
-│   ├── API_REFERENCE.md              ← All OData + TrackCargo endpoints
+│   ├── API_REFERENCE.md              ← All OData + Cargo endpoints
 │   ├── RULES_AUTHORING.md            ← Writing business rules
 │   └── CONTRIBUTING.md               ← How to contribute
 ├── packages/

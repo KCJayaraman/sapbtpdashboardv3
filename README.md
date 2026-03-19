@@ -113,7 +113,7 @@ sap-s4hana-ceo-platform/
 - **8 live KPIs** — Revenue, Procurement Spend, Open POs, Overdue Deliveries, Sales Orders, OTD Rate, Active Suppliers, Gross Margin
 - **5 tabs** — Overview · Procurement · Sales & Revenue · Suppliers · Logistics · Alerts
 - **Live S/4HANA data** — direct `sap.ui.model.odata.v2.ODataModel` bindings, zero mock data
-- **TrackCargo integration** — sea + air freight delay tracking via BTP Destination proxy
+- **Cargo integration** — sea + air freight delay tracking via BTP Destination proxy
 - **Excel export** — all tables exportable via `sap.ui.export.Spreadsheet`
 - **Role-based access** — XSUAA with `Control_Tower_CEO` and `Control_Tower_Admin` roles
 
@@ -136,8 +136,8 @@ sap-s4hana-ceo-platform/
 | `mbt`                 | ≥ 1.2   | MTA build — `npm install -g mbt`                         |
 | Cloud Foundry CLI     | ≥ 8     | BTP deployment                                           |
 | SAP BTP Trial Account | —       | [hanatrial.ondemand.com](https://hanatrial.ondemand.com) |
-| SAP S/4HANA system    | 2022+   | OData source (trial or on-prem)                          |
-| TrackCargo API Key    | —       | [trackcargo.co/signup](https://trackcargo.co/signup)     |
+| SAP S/4HANA system    | 2022+   | OData source (Private or on-prem)                        |
+| Cargo API Key         | —       | API Key & Endpoints of Cargo tracking API                |
 
 ---
 

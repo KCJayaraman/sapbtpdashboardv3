@@ -4,7 +4,6 @@
 
 [![SAP UI5](https://img.shields.io/badge/SAP%20UI5-1.120-blue?logo=sap)](https://ui5.sap.com)
 [![BTP](https://img.shields.io/badge/SAP%20BTP-Cloud%20Foundry-0070F2?logo=sap)](https://www.sap.com/products/technology-platform.html)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
